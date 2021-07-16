@@ -1,0 +1,275 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html body {
+  background: #e5e5e5;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  justify-content: space-between;
+}
+
+.nav-link {
+  margin: 2%;
+  color: #6070ff;
+  padding: 0 1rem;
+}
+
+.logo {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070ff;
+}
+
+.icon-links {
+  color: #505f79;
+  list-style-type: none;
+  padding-top: 3%;
+  margin: 0 -1rem;
+}
+
+.icon-links li {
+  display: block;
+  padding: 0 1rem;
+}
+
+.information {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 52px;
+  color: #172b4d;
+  margin-bottom: 0;
+}
+
+.description {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.contact {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+
+.article {
+  display: flex;
+  flex-direction: column;
+  background-image: url('./images/background.png');
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  background-size: cover;
+  padding: 2rem 1rem;
+  width: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  margin: 12px 0;
+  padding: 12px;
+  border: 1px solid #7f8cff;
+  border-radius: 8px;
+  background-color: #fff;
+  color: #6070ff;
+}
+
+button:hover {
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  border: none;
+  padding: 12px;
+  margin: 12px 0;
+  border-radius: 8px;
+  background-color: #6070ff;
+  color: #fff;
+}
+
+.works {
+  display: grid;
+  grid-template-columns: auto;
+  padding: 114px 24px 26px 24px;
+}
+
+.works .works-card {
+  background-color: #fff;
+  border: 1px solid #dfe1e6;
+  padding: 16px;
+  border-radius: 16px;
+  margin-bottom: 88px;
+}
+
+.works-card img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 12px;
+}
+
+.works-card h2 {
+  font-family: Poppins, sans-serif;
+  font-size: 34px;
+  margin-bottom: 11px;
+  color: #172b4d;
+}
+
+.works-card .work-caption {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.work-caption .caption-item {
+  font-family: Poppins, sans-serif;
+  margin-right: 12px;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+}
+
+.work-caption .caption-item-1 {
+  font-family: Poppins, sans-serif;
+  margin-right: 12px;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #344563;
+}
+
+.work-caption .counter {
+  font-family: Poppins, sans-serif;
+  width: 8px;
+  height: 8px;
+  background-color: #c1c7d0;
+  border-radius: 50%;
+}
+
+.works-card p {
+  font-family: Poppins, sans-serif;
+  margin-bottom: 12px;
+  color: #344563;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.works-card .work-tag {
+  display: flex;
+  list-style-type: none;
+  margin-bottom: 12px;
+}
+
+.work-tag .tag-item {
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  margin-right: 0.8em;
+  padding: 4px 12px;
+  background-color: #ebebff;
+  border-radius: 8px;
+  color: #6070ff;
+}
+
+.about-myself {
+  padding: 114px 24px;
+  background-color: #fff;
+  border-top-right-radius: 90px;
+}
+
+.about-myself h2 {
+  font-size: 40px;
+  line-height: 52px;
+  color: #172b4d;
+  margin-bottom: 12px;
+}
+
+.about-myself p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  margin-bottom: 12px;
+}
+
+.tags {
+  list-style-type: none;
+  padding: 24px 12px;
+}
+
+.tags .tags-item {
+  display: flex;
+  align-items: center;
+  padding: 9px;
+  background-color: #f7f7f9;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+.tags-item img {
+  width: 48px;
+  height: 48px;
+  margin-right: 16px;
+}
+
+.tags-item p {
+  font-size: 15px;
+  color: #172b4d;
+}
+
+details {
+  margin: 24px 0;
+  border-bottom: 1px solid #f7f7f9;
+}
+
+details summary {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  align-items: center;
+}
+
+details summary::marker {
+  display: none;
+}
+
+details summary::after {
+  content: url(./icons/union.svg);
+  height: 14px;
+  width: 18px;
+}
+
+details[open] summary::after {
+  content: url(./icons/union-rev.svg);
+  height: 14px;
+  width: 18px;
+}
