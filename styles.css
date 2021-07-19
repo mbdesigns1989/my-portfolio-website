@@ -189,8 +189,8 @@ button:hover {
   margin-bottom: 12px;
 }
 
-
 .work-tag .tag-item1 {
+  float: left;
   font-family: Poppins, sans-serif;
   font-weight: 500;
   font-size: 12px;
@@ -203,6 +203,7 @@ button:hover {
 }
 
 .work-tag .tag-item2 {
+  float:left
   font-family: Poppins, sans-serif;
   font-weight: 500;
   font-size: 12px;
@@ -215,6 +216,7 @@ button:hover {
 }
 
 .work-tag .tag-item3 {
+  float: right;
   font-family: Poppins, sans-serif;
   font-weight: 500;
   font-size: 12px;
