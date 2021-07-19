@@ -189,7 +189,8 @@ button:hover {
   margin-bottom: 12px;
 }
 
-.work-tag .tag-item {
+
+.work-tag .tag-item1 {
   font-family: Poppins, sans-serif;
   font-weight: 500;
   font-size: 12px;
@@ -200,6 +201,32 @@ button:hover {
   border-radius: 8px;
   color: #6070ff;
 }
+
+.work-tag .tag-item2 {
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  margin-right: 0.8em;
+  padding: 4px 12px;
+  background-color: #ebebff;
+  border-radius: 8px;
+  color: #6070ff;
+}
+
+.work-tag .tag-item3 {
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  margin-right: 0.8em;
+  padding: 4px 12px;
+  background-color: #ebebff;
+  border-radius: 8px;
+  color: #6070ff;
+}
+
+
 
 .about-myself {
   padding: 114px 24px;
