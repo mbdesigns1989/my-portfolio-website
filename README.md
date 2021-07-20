@@ -11,7 +11,7 @@
 - CSS
 ## Live Demo
 
-https://raw.githack.com/mbdesigns1989/my-portfolio-website/mobile-version-skeleton/index.html
+https://raw.githack.com/mbdesigns1989/my-portfolio-website/mobile-form/index.html
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.

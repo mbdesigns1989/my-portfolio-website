@@ -66,7 +66,7 @@ html body {
   margin-bottom: 2%;
 }
 
-.contact {
+.connect {
   font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -272,4 +272,71 @@ details[open] summary::after {
   content: url(./icons/union-rev.svg);
   height: 14px;
   width: 18px;
+}
+
+.contact-wrapper {
+  background-color: #6070ff;
+  padding: 21px 0 0;
+  border-top-left-radius: 70px;
+  margin-top: -60px;
+  margin-left: 3%;
+}
+
+.contact {
+  background: url("./images/contact_background.png");
+  background-size: 60% 100%;
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-color: #6070ff;
+  font-family: "Poppins", sans-serif;
+  border-top-left-radius: 100px;
+  width: 100%;
+  padding: 13px 24px 0;
+  box-sizing: border-box;
+}
+
+.contact p:first-child {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 0;
+  color: #fff;
+}
+
+.contact p:first-of-type {
+  color: #ebebff;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 80px;
+}
+
+.contact p:nth-child(2) {
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.name,
+.email {
+  width: 100%;
+  height: 48px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: none;
+  padding: 15px;
+  font-size: 17px;
+  color: #172b4d;
+  box-sizing: border-box;
+}
+
+.msg {
+  width: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin-bottom: 22px;
+  color: black;
+  font-family: Poppins, sans-serif;
 }
