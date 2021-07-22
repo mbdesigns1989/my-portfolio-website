@@ -70,7 +70,8 @@ section {
   border-bottom-left-radius: 150px;
 }
 
-.second-section p {
+.second-section p,
+h1 {
   margin: 0;
   padding: 0;
 }
@@ -80,8 +81,14 @@ section {
   width: 80%;
 }
 
-.second-section p:first-child,
-.second-section p:nth-child(2) {
+.second-section h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  width: 90%;
+  color: #172b4d;
+}
+
+.second-section p:first-child {
   font-size: 40px;
   font-weight: bolder;
   width: 90%;
