@@ -2,7 +2,7 @@
 # My Portfolio
 
 > This is a Portfolio setup and mobile version  project by microverse to test the use of Flexbox for Positioning and also images and Background,
-![portfolio](./images/my-portfolio.jpg)
+![portfolio](./assets/images/download.jpg)
 
 
 ## Built With
@@ -11,7 +11,7 @@
 - CSS
 ## Live Demo
 
-https://raw.githack.com/mbdesigns1989/my-portfolio-website/mobile-form/index.html
+https://raw.githack.com/mbdesigns1989/my-portfolio-website/desktop-version/index.html
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
