@@ -182,10 +182,8 @@ h1 {
 }
 
 .project-image:hover {
- 
   transform: scale(1.01);
   transition-duration: 0.1s;
-  
 }
 
 .project-name {
