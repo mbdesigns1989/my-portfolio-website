@@ -35,6 +35,8 @@ body {
 
 button {
   cursor: pointer;
+  color: #7f8cff;
+  transition: color 1.7s;
 }
 
 section {
@@ -55,6 +57,11 @@ section {
 .logo-box a {
   text-decoration: none;
   color: #6070ff;
+}
+
+.logo-box:hover {
+  transition-duration: 1s;
+  transform: rotate(360deg);
 }
 
 .logo-box span,
@@ -172,6 +179,11 @@ h1 {
 .project-image {
   margin: auto;
   margin: 0 10px;
+}
+
+.project-image:hover {
+  transform: scale(1.01);
+  transition-duration: 0.1s;
 }
 
 .project-name {
