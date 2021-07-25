@@ -11,7 +11,7 @@
 - CSS
 ## Live Demo
 
-https://raw.githack.com/mbdesigns1989/my-portfolio-website/desktop-version/index.html
+https://raw.githack.com/mbdesigns1989/my-portfolio-website/main/index.html
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
