@@ -56,7 +56,7 @@ section {
 
 .logo-box a {
   text-decoration: none;
-  color: #6070ff;
+  color: #2E3CBD;
 }
 
 .logo-box:hover {
@@ -244,7 +244,7 @@ h1 {
   border-radius: 8px;
   background-color: #ebebff;
   padding: 5px 10px;
-  color: #6070ff;
+  color: #2E3CBD;
   font-size: 12px;
 }
 
@@ -327,7 +327,7 @@ h1 {
   margin-right: 20px;
   font-size: 25px;
   width: 20px;
-  color: #505f79;
+  color: #586376;
 }
 
 .about .project-button {
@@ -411,7 +411,7 @@ h1 {
 }
 
 .contact-wrapper {
-  background-color: #6070ff;
+  background-color: #2E3CBD;
   padding: 21px 0 0;
   border-top-left-radius: 70px;
   margin-top: -180px;
@@ -422,7 +422,7 @@ h1 {
   background-size: 60% 100%;
   background-repeat: no-repeat;
   background-position: top right;
-  background-color: #6070ff;
+  background-color: #2E3CBD;
   font-family: "Poppins", sans-serif;
   border-top-left-radius: 100px;
   width: 100%;
