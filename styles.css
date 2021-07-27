@@ -120,7 +120,7 @@ h1 {
   margin-top: 900px;
 }
 
-.social-container {
+.social-iconss {
   display: flex;
   list-style-type: none;
   padding-bottom: 138px;
@@ -137,14 +137,14 @@ h1 {
   margin-top: 12px;
 }
 
-.social-container li {
+.social-iconss li {
   margin-right: 20px;
   font-size: 25px;
   width: 20px;
   color: #505f79;
 }
 
-.social-container li a {
+.social-iconss li a {
   text-decoration: none;
   color: inherit;
 }
@@ -244,7 +244,7 @@ h1 {
   border-radius: 8px;
   background-color: #ebebff;
   padding: 5px 10px;
-  color: #2E3CBD;
+  color: #2e3cbd;
   font-size: 12px;
 }
 
@@ -328,6 +328,7 @@ h1 {
   font-size: 25px;
   width: 20px;
   color: #586376;
+  cursor: pointer;
 }
 
 .about .project-button {
@@ -411,7 +412,7 @@ h1 {
 }
 
 .contact-wrapper {
-  background-color: #2E3CBD;
+  background-color: #2e3cbd;
   padding: 21px 0 0;
   border-top-left-radius: 70px;
   margin-top: -180px;
@@ -422,7 +423,7 @@ h1 {
   background-size: 60% 100%;
   background-repeat: no-repeat;
   background-position: top right;
-  background-color: #2E3CBD;
+  background-color: #2e3cbd;
   font-family: "Poppins", sans-serif;
   border-top-left-radius: 100px;
   width: 100%;
