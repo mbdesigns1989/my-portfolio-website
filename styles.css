@@ -293,7 +293,7 @@ h1 {
   width: 100%;
 }
 
-.about-intro-section p:first-child {
+.about-intro-section h1:first-child {
   color: #172b4d;
   font-size: 40px;
   font-weight: 900;
@@ -430,7 +430,7 @@ h1 {
   box-sizing: border-box;
 }
 
-.contact p:first-child {
+.contact h1:first-child {
   text-align: center;
   font-weight: bold;
   font-size: 40px;
@@ -438,7 +438,7 @@ h1 {
   color: #fff;
 }
 
-.contact p:first-of-type {
+.contact h1:first-of-type {
   color: #ebebff;
   font-size: 40px;
   text-align: center;
@@ -449,7 +449,7 @@ h1 {
 .contact p:nth-child(2) {
   color: #fff;
   text-align: center;
-  font-size: 20px;
+  font-size: 1.25rem;
   margin-bottom: 40px;
 }
 
@@ -553,7 +553,7 @@ h1 {
     margin: auto;
   }
 
-  .second-section p:first-child {
+  .second-section h1:first-child {
     padding-top: 80px;
   }
 
@@ -589,8 +589,8 @@ h1 {
     order: 2;
   }
 
-  .second-section p:first-child,
-  .second-section p:nth-child(2) {
+  .second-section h1:first-child,
+  .second-section h1:nth-child(2) {
     font-size: 48px;
   }
 
@@ -644,7 +644,7 @@ h1 {
     border-top-left-radius: 200px;
   }
 
-  .contact p:first-child {
+  .contact h1:first-child {
     padding-bottom: 30px;
   }
 
