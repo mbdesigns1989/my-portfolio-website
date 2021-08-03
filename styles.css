@@ -113,6 +113,25 @@ h1 {
   font-family: "Poppins", sans-serif;
 }
 
+/* Syles for the mobile menu js */
+.mobile-menu-js {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  opacity: 0.95;
+  padding-top: 21px;
+  width: 100vw;
+  height: 100vh;
+  background-color: #6070ff;
+}
+
+
+
+/* End of Mobile Menu js Styles */
+
 .connect {
   color: #6070ff;
   font-size: 16px;
