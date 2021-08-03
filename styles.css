@@ -128,7 +128,34 @@ h1 {
   background-color: #6070ff;
 }
 
+.end-scroll {
+  height: 100%;
+  overflow: hidden;
+}
 
+.mobile-menu-js .menu-item {
+  padding-left: 28px;
+  margin-bottom: 40px;
+  font-size: 32px;
+}
+
+.mobile-menu-js li:first-of-type {
+  padding-top: 60px;
+}
+
+.close-container {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+  font-size: 30px;
+  padding-right: 33px;
+}
+
+.mobile-menu-js .menu-item a {
+  color: white;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
 
 /* End of Mobile Menu js Styles */
 
