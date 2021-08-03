@@ -500,6 +500,52 @@ h1 {
   width: 100%;
 }
 
+/* Syles for the mobile menu js */
+.mobile-menu-js {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  opacity: 0.95;
+  padding-top: 21px;
+  width: 100vw;
+  height: 100vh;
+  background-color: #6070ff;
+}
+
+.end-scroll {
+  height: 100%;
+  overflow: hidden;
+}
+
+.mobile-menu-js .menu-item {
+  padding-left: 28px;
+  margin-bottom: 40px;
+  font-size: 32px;
+}
+
+.mobile-menu-js li:first-of-type {
+  padding-top: 60px;
+}
+
+.close-container {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+  font-size: 30px;
+  padding-right: 33px;
+}
+
+.mobile-menu-js .menu-item a {
+  color: white;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+/* End of Mobile Menu js Styles */
+
 /* Desktop media queries */
 @media all and (min-width: 1020px) {
   .wrapper {

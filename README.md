@@ -9,6 +9,7 @@
 
 - Html
 - CSS
+- JavaScript
 ## Live Demo
 
 https://mbdesigns1989.github.io/my-portfolio-website/

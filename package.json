@@ -1,0 +1,33 @@
+{
+  "name": "my-portfolio-website",
+  "version": "1.0.0",
+  "description": "> This is a Portfolio setup and mobile version  project by microverse to test the use of Flexbox for Positioning and also images and Background,\r ![portfolio](./assets/images/download.jpg)",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.23.4",
+    "hint": "^6.1.4",
+    "postcss": "^8.1.0",
+    "postcss-scss": "^4.0.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbdesigns1989/my-portfolio-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbdesigns1989/my-portfolio-website/issues"
+  },
+  "homepage": "https://github.com/mbdesigns1989/my-portfolio-website#readme"
+}
