@@ -500,6 +500,7 @@ h1 {
   width: 100%;
 }
 
+
 /* Syles for the mobile menu js */
 .mobile-menu-js {
   display: block;
@@ -706,5 +707,39 @@ h1 {
 
   .project > section:nth-child(2) {
     margin: 20px 0 0 20px;
+  }
+
+  /* Desktop Modal Styling Start */
+  .project-modal-main {
+    width: 60%;
+  }
+
+  .md-pr-yr {
+    margin-bottom: 30px;
+  }
+
+  .md-pr-yr li {
+    font-size: 18px;
+  }
+
+  .modal-project-name {
+    font-size: 40px;
+  }
+
+  .modal-image {
+    margin-top: 0;
+  }
+
+  .modal-techs {
+    margin-top: 20px;
+  }
+
+  .modal-project-details {
+    grid-template-columns: 70% 30%;
+    margin-top: 30px;
+  }
+
+  .modal-project-description {
+    font-size: 22px;
   }
 }

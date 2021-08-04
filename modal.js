@@ -18,4 +18,3 @@ const populateModal = (index) => {
       liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
       githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
     },
-   
