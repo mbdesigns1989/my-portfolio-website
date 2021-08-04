@@ -563,11 +563,52 @@ h1 {
 
 .modal-project-details {
   display: grid;
-  grid-template-co
-
+  grid-template-columns: 100%;
+  grid-column-gap: 10px;
 }
 
+.modal-project-description {
+  font-size: 15px;
+  color: #344563;
+  text-align: left;
+}
 
+.modals-tech-and-buttons {
+  text-align: left;
+}
+
+.modal-techs {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0 0 40px;
+  font-size: 14px;
+}
+
+.modal-techs li {
+  background-color: rgb(213, 227, 231);
+  color: rgb(52, 59, 155);
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin: 10px 5px 0 0;
+}
+
+.modal-buttons div {
+  background-color: white;
+  border: 0.5px solid rgb(52, 59, 155);
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 18px;
+  margin: 5px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.modal-buttons div a {
+  text-decoration: none;
+  color: rgb(52, 59, 155);
+}
 
 /* Syles for the mobile menu js */
 .mobile-menu-js {
