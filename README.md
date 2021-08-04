@@ -18,7 +18,7 @@ https://mbdesigns1989.github.io/my-portfolio-website/
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-html/css/github workflow knowledge  
+html/css/javascript/github workflow knowledge  
 
 ### Setup 
 Set up and configure git on your system. 
