@@ -25,6 +25,7 @@
       rel="stylesheet"
     />
     <script defer src="./index.js"></script>
+    <script defer src="./modal.js"></script>
   </head>
   <body>
     <main class="wrapper">
@@ -92,7 +93,7 @@
               <li>CSS</li>
               <li>JavaScript</li>
             </ul>
-            <button type="button" class="project-button">See Project</button>
+            <button type="button" class="project-button pr-btn">See Project</button>
           </section>
         </section>
       
@@ -124,7 +125,7 @@
               <li>CSS</li>
               <li>JavaScript</li>
             </ul>
-            <button type="button" class="project-button">See Project</button>
+            <button type="button" class="project-button pr-btn">See Project</button>
           </section>
         </section>
       
@@ -156,7 +157,7 @@
               <li>CSS</li>
               <li>JavaScript</li>
             </ul>
-            <button type="button" class="project-button">See Project</button>
+            <button type="button" class="project-button pr-btn">See Project</button>
           </section>
         </section>
       
@@ -188,7 +189,7 @@
               <li>CSS</li>
               <li>JavaScript</li>
             </ul>
-            <button type="button" class="project-button">See Project</button>
+            <button type="button" class="project-button pr-btn">See Project</button>
           </section>
         </section>
       </section>
@@ -307,5 +308,40 @@
         </section>
       </section>
     </main>
+    <section class="popup-container">
+      <div class="popup-inner"></div>
+    </section>
+    <!--Project Modal Starts -->
+    <section class="project-modal-background">
+      <section class="project-modal-main">
+        <section class="modal-top-section">
+          <h1 class="modal-project-name"></h1>
+          <span class="close">&times;</span>
+        </section>
+        <ul class="project-year md-pr-yr">
+          <li class="canopy"></li>
+          <li class="dot"></li>
+          <li class="role"></li>
+          <li class="dot"></li>
+          <li class="role year"></li>
+        </ul>
+        <img src="#" alt="#" class="modal-image" />
+        <section class="modal-project-details">
+          <p class="modal-project-description"></p>
+          <section class="modals-tech-and-buttons">
+            <ul class="modal-techs"></ul>
+            <div class="modal-buttons">
+              <div class="live-link">
+                <a href="#">See Live <i class="fas fa-external-link-alt"></i></a>
+              </div>
+              <div class="github-link">
+                <a href="#">See Source <i class="fab fa-github"></i></a>
+              </div>
+            </div>
+          </section>
+        </section>
+      </section>
+    </section>
+    <!-- Project Modal Ends -->
   </body>
 </html>
