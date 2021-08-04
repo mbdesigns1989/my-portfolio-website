@@ -500,6 +500,74 @@ h1 {
   width: 100%;
 }
 
+/* Mobile Modal Styling Start */
+.project-modal-background {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: auto;
+  background: rgba(138, 168, 207, 0.84);
+  opacity: unset;
+  text-align: center;
+  max-height: 100vh;
+  overflow-y: auto;
+  backdrop-filter: blur(4px);
+  font-family: "Poppins", sans-serif;
+}
+
+.project-modal-main {
+  width: 80%;
+  margin: 50px auto;
+  background-color: white;
+  padding: 10px 20px 10px;
+  border-radius: 20px;
+  overflow-y: initial !important;
+}
+
+.modal-top-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  color: #172b4d;
+}
+
+.md-pr-yr {
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
+.md-pr-yr li {
+  font-size: 14px;
+}
+
+.modal-project-name {
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0;
+  padding: 0;
+}
+
+.close {
+  font-size: 30px;
+  font-weight: lighter;
+  cursor: pointer;
+}
+
+.modal-image {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.modal-project-details {
+  display: grid;
+  grid-template-co
+
+}
+
+
 
 /* Syles for the mobile menu js */
 .mobile-menu-js {
