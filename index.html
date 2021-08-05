@@ -26,6 +26,7 @@
     />
     <script defer src="./index.js"></script>
     <script defer src="./modal.js"></script>
+    <script defer src="./validation.js"></script>
   </head>
   <body>
     <main class="wrapper">
@@ -274,7 +275,7 @@
             feature that you need built or a project that needs coding. I’d love
             to help with it
           </p>
-          <form action="https://formspree.io/f/mjvjejob" method="POST">
+          <form  class="contact-mb"  action="https://formspree.io/f/mjvjejob" method="POST">
             <input
               type="text"
               maxlength="30"
@@ -289,7 +290,7 @@
               name="email"
               placeholder="Email"
               required
-              pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+              pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
             />
             <textarea
               maxlength="500"
@@ -301,6 +302,7 @@
               required
               placeholder="Enter your message here"
             ></textarea>
+            <p class="error fade"></p>
             <button type="submit" class="project-button send">
               Get in Touch
             </button>

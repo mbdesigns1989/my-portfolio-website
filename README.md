@@ -12,7 +12,7 @@
 - JavaScript
 ## Live Demo
 
-https://mbdesigns1989.github.io/my-portfolio-website/
+ https://mbdesigns1989.github.io/my-portfolio-website/
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -43,4 +43,4 @@ Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project, it will be my pleasure.
