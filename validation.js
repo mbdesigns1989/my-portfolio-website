@@ -1,5 +1,5 @@
 const form = document.querySelector('.contact-mb');
-const email = document.querySelector('.email');
+const email = document.querySelector('.hello');
 const msgBox = document.querySelector('.error');
 
 email.addEventListener('focus', () => {
