@@ -4,19 +4,19 @@ const populateModal = (index) => {
 
   const projects = [
     {
-      projectName: 'Tonic',
-      canopy: 'CANOPY',
-      role: 'Back End Dev',
-      year: '2015',
+      projectName: 'Conference Capstone Project',
+      canopy: 'MB',
+      role: 'Front End Dev',
+      year: '2021',
       image: {
-        URL: './assets/images/project1.png',
+        URL: './assets/images/download (4).jpg',
         alt: 'My first project snapshot',
       },
       description:
-        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent. ',
-      technologies: ['html', 'css', 'javascipt', 'bootstrap', 'github', 'ruby'],
-      liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
-      githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
+        'The project is based on an online website for a conference. ',
+      technologies: ['html', 'css', 'javascipt','github',],
+      liveLink: 'https://mbdesigns1989.github.io/my-capstone-project/',
+      githubLink: 'https://github.com/mbdesigns1989/my-capstone-project',
     },
     {
       projectName: 'Multi-Post Stories',
