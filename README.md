@@ -7,12 +7,13 @@
 
 ## Built With
 
-- Html
-- CSS
+- Html5
+- CSS3
 - JavaScript
+  
 ## Live Demo
 
- https://mbdesigns1989.github.io/my-portfolio-website/
+ [Live Demo](https://mbdesigns1989.github.io/my-portfolio-website/)
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -29,11 +30,10 @@ git clone  https://github.com/mbdesigns1989/my-portfolio-website.git
 
 ## Authors
 
-👤 **Author1**
-
-- GitHub: (https://github.com/mbdesigns1989)
-- Twitter: (https://twitter.com/mohamed66083152)
-- LinkedIn: (https://www.linkedin.com/in/mohamed-badr-27b26a212/)
+- Mohamed Badr
+- [GitHub](https://github.com/mbdesigns1989)
+- [Twitter_X](https://twitter.com/mohamed66083152)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-badr-27b26a212/)
 
 ## 🤝 Contributing
 
