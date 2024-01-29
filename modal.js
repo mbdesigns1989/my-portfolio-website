@@ -74,21 +74,21 @@ const populateModal = (index) => {
       githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
     },
     {
-      projectName: 'My Portfolio website',
+      projectName: 'Space Travel Hub',
       role: 'Front End Dev',
       year: '2021',
       image: {
         URL: './assets/images/project4.png',
-        alt: 'My Portfolio project snapshot',
+        alt: 'Space-Travel-Hub project snapshot',
       },
       description:
-        'This is a Portfolio setup and mobile version project by Microverse to test the use of Flexbox for Positioning and also images and Background,',
+        'This is a web application for a company that provides commercial and scientific space travel services. Using real live data from the SpaceX API, the application allows users to book rockets and join selected space missions.',
       technologies: ['html', 'css', 'javascipt'],
-      liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
-      githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
+      liveLink: 'https://phelian23.github.io/react-redux-group-project/',
+      githubLink: 'https://github.com/mbdesigns1989/react-redux-group-project',
     },
     {
-      projectName: 'My Portfolio website',
+      projectName: '2',
       role: 'Front End Dev',
       year: '2021',
       image: {
