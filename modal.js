@@ -46,19 +46,18 @@ const populateModal = (index) => {
       githubLink: 'https://github.com/mbdesigns1989/JS-Capstone-Project-',
     },
     {
-      projectName: 'Multi-Post Stories',
-      canopy: 'CANOPY',
-      role: 'Back End Dev',
-      year: '2015',
+      projectName: 'Conference Capstone Project',
+      role: 'Front End Dev',
+      year: '2021',
       image: {
         URL: './assets/images/project4.png',
-        alt: 'My fourth project snapshot',
+        alt: 'Conference Capstone project snapshot',
       },
       description:
-        'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi, odit debitis minus vero excepturi facilis tenetur hic eos, mollitia quidem quia esse quaerat architecto pariatur odio? Iste non commodi consequatur. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi, odit debitis minus vero excepturi facilis tenetur hic eos, mollitia quidem quia esse quaerat architecto pariatur odio? Iste non commodi consequatur.',
-      technologies: ['html', 'css', 'javascipt', 'bootstrap', 'github', 'ruby'],
-      liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
-      githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
+        'The project is based on an online website for a conference.',
+      technologies: ['html', 'css', 'javascipt'],
+      liveLink: 'https://mbdesigns1989.github.io/my-capstone-project/',
+      githubLink: 'https://github.com/mbdesigns1989/my-capstone-project',
     },
   ];
 
