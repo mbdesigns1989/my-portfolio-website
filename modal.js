@@ -4,19 +4,18 @@ const populateModal = (index) => {
 
   const projects = [
     {
-      projectName: 'Tonic',
-      canopy: 'CANOPY',
-      role: 'Back End Dev',
-      year: '2015',
+      projectName: 'To-do-List',
+      role: 'Front End Dev',
+      year: '2021',
       image: {
         URL: './assets/images/project1.png',
-        alt: 'My first project snapshot',
+        alt: 'To-do-List project snapshot',
       },
       description:
-        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent. ',
-      technologies: ['html', 'css', 'javascipt', 'bootstrap', 'github', 'ruby'],
-      liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
-      githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
+        'ToDo list is an app that helps you organize your daily tasks. It simply lists the things that you need to do and allows you to add them and mark them as complete.. ',
+      technologies: ['html', 'css', 'javascipt'],
+      liveLink: 'https://rawcdn.githack.com/mbdesigns1989/To-do-List/9e8da4b2e5a7b285766b4515aa3047c1f753e190/dist/index.html',
+      githubLink: 'https://github.com/mbdesigns1989/To-do-List',
     },
     {
       projectName: 'Multi-Post Stories',
