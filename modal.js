@@ -88,18 +88,18 @@ const populateModal = (index) => {
       githubLink: 'https://github.com/mbdesigns1989/react-redux-group-project',
     },
     {
-      projectName: '2',
+      projectName: 'Book-An-Appointment',
       role: 'Front End Dev',
-      year: '2021',
+      year: '2023',
       image: {
         URL: './assets/images/project4.png',
-        alt: 'My Portfolio project snapshot',
+        alt: 'Book-An-Appointment project snapshot',
       },
       description:
-        'This is a Portfolio setup and mobile version project by Microverse to test the use of Flexbox for Positioning and also images and Background,',
+        'Book-an-Appointment is an application for cars. Create an account, and find and book your dream car today.',
       technologies: ['html', 'css', 'javascipt'],
-      liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
-      githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
+      liveLink: 'https://book-an-appointment-frontend.onrender.com/',
+      githubLink: 'https://github.com/mbdesigns1989/Book-An-Appointment-Frontend',
     },
   ];
 
