@@ -59,6 +59,20 @@ const populateModal = (index) => {
       liveLink: 'https://mbdesigns1989.github.io/my-capstone-project/',
       githubLink: 'https://github.com/mbdesigns1989/my-capstone-project',
     },
+    {
+      projectName: 'My Portfolio website',
+      role: 'Front End Dev',
+      year: '2021',
+      image: {
+        URL: './assets/images/project4.png',
+        alt: 'My Portfolio project snapshot',
+      },
+      description:
+        'This is a Portfolio setup and mobile version project by Microverse to test the use of Flexbox for Positioning and also images and Background,',
+      technologies: ['html', 'css', 'javascipt'],
+      liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
+      githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
+    },
   ];
 
   const modalName = document.querySelector('.modal-project-name');
