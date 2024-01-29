@@ -4,6 +4,48 @@ const populateModal = (index) => {
 
   const projects = [
     {
+      projectName: 'Book-An-Appointment',
+      role: 'Front End Dev',
+      year: '2023',
+      image: {
+        URL: './assets/images/project4.png',
+        alt: 'Book-An-Appointment project snapshot',
+      },
+      description:
+        'Book-an-Appointment is an application for cars. Create an account, and find and book your dream car today.',
+      technologies: ['html', 'css', 'javascipt'],
+      liveLink: 'https://book-an-appointment-frontend.onrender.com/',
+      githubLink: 'https://github.com/mbdesigns1989/Book-An-Appointment-Frontend',
+    },
+    {
+      projectName: 'Space Travel Hub',
+      role: 'Front End Dev',
+      year: '2021',
+      image: {
+        URL: './assets/images/project4.png',
+        alt: 'Space-Travel-Hub project snapshot',
+      },
+      description:
+        'This is a web application for a company that provides commercial and scientific space travel services. Using real live data from the SpaceX API, the application allows users to book rockets and join selected space missions.',
+      technologies: ['html', 'css', 'javascipt'],
+      liveLink: 'https://phelian23.github.io/react-redux-group-project/',
+      githubLink: 'https://github.com/mbdesigns1989/react-redux-group-project',
+    },
+    {
+      projectName: 'JS-Capstone-Project',
+      role: 'front End Dev',
+      year: '2021',
+      image: {
+        URL: './assets/images/project3.png',
+        alt: 'JS-Capstone-project snapshot',
+      },
+      description:
+        'An API based web app that displays Meals from the MealsDB API and the Involvement API from Microverse. The features of this webapp include an option to like a meal by clicking on the like button A comment button that opens up a modal and allows users to leave comments.',
+      technologies: ['html', 'css', 'javascipt'],
+      liveLink: 'https://effulgent-dodol-e273cf.netlify.app/',
+      githubLink: 'https://github.com/mbdesigns1989/JS-Capstone-Project-',
+    },
+    {
       projectName: 'To-do-List',
       role: 'Front End Dev',
       year: '2021',
@@ -32,20 +74,6 @@ const populateModal = (index) => {
       githubLink: 'https://github.com/mbdesigns1989/awesome-books',
     },
     {
-      projectName: 'JS-Capstone-Project',
-      role: 'front End Dev',
-      year: '2021',
-      image: {
-        URL: './assets/images/project3.png',
-        alt: 'JS-Capstone-project snapshot',
-      },
-      description:
-        'An API based web app that displays Meals from the MealsDB API and the Involvement API from Microverse. The features of this webapp include an option to like a meal by clicking on the like button A comment button that opens up a modal and allows users to leave comments.',
-      technologies: ['html', 'css', 'javascipt'],
-      liveLink: 'https://effulgent-dodol-e273cf.netlify.app/',
-      githubLink: 'https://github.com/mbdesigns1989/JS-Capstone-Project-',
-    },
-    {
       projectName: 'Conference Capstone Project',
       role: 'Front End Dev',
       year: '2021',
@@ -72,34 +100,6 @@ const populateModal = (index) => {
       technologies: ['html', 'css', 'javascipt'],
       liveLink: 'https://mbdesigns1989.github.io/my-portfolio-website/',
       githubLink: 'https://github.com/mbdesigns1989/my-portfolio-website',
-    },
-    {
-      projectName: 'Space Travel Hub',
-      role: 'Front End Dev',
-      year: '2021',
-      image: {
-        URL: './assets/images/project4.png',
-        alt: 'Space-Travel-Hub project snapshot',
-      },
-      description:
-        'This is a web application for a company that provides commercial and scientific space travel services. Using real live data from the SpaceX API, the application allows users to book rockets and join selected space missions.',
-      technologies: ['html', 'css', 'javascipt'],
-      liveLink: 'https://phelian23.github.io/react-redux-group-project/',
-      githubLink: 'https://github.com/mbdesigns1989/react-redux-group-project',
-    },
-    {
-      projectName: 'Book-An-Appointment',
-      role: 'Front End Dev',
-      year: '2023',
-      image: {
-        URL: './assets/images/project4.png',
-        alt: 'Book-An-Appointment project snapshot',
-      },
-      description:
-        'Book-an-Appointment is an application for cars. Create an account, and find and book your dream car today.',
-      technologies: ['html', 'css', 'javascipt'],
-      liveLink: 'https://book-an-appointment-frontend.onrender.com/',
-      githubLink: 'https://github.com/mbdesigns1989/Book-An-Appointment-Frontend',
     },
   ];
 
